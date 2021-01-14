@@ -16,4 +16,4 @@ The dataset reveals that a small handful of microbial species (also called opera
 
   Use otu_labels as the hovertext for the chart.
 
-![screenshot](images/hw01.png)
+![screenshot](Images/hw01.png)
