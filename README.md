@@ -1,6 +1,6 @@
 # Plot.ly-Homework---Belly-Button-Biodiversity
 
-![screenshot](Images/bacteria2.png)
+![screenshot](Images/bacteria2.jpg)
 
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
