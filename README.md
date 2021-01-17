@@ -23,6 +23,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 * Use otu_ids for the marker colors.
 * Use otu_labels for the text values.
 
+![screenshot](Images/hw03.png)
+
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
